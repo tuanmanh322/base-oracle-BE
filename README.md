@@ -1,2 +1,2 @@
-# intern24_t2-mock-backend
+# mock project of my life
 Ahihi
